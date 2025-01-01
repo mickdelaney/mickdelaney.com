@@ -74,9 +74,6 @@ importers:
       novel:
         specifier: ^0.1.22
         version: 0.1.22(bufferutil@4.0.8)(react@18.3.1)(solid-js@1.8.17)(svelte@4.2.18)(utf-8-validate@6.0.3)(vue@3.4.27(typescript@5.4.5))
-      npm-check-updates:
-        specifier: ^17.1.13
-        version: 17.1.13
       openai-edge:
         specifier: ^1.2.2
         version: 1.2.2
@@ -147,6 +144,9 @@ importers:
       eslint-config-next:
         specifier: ^14.0.2
         version: 14.2.3(eslint@8.53.0)(typescript@5.4.5)
+      npm-check-updates:
+        specifier: ^17.1.13
+        version: 17.1.13
       postcss:
         specifier: ^8.4.31
         version: 8.4.38
