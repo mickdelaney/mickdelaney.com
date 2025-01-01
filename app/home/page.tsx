@@ -8,14 +8,11 @@ export default function HomePage() {
         width={512}
         height={512}
         src="/logo.png"
-        alt="Platforms on Vercel"
+        alt="app/home/page.tsx"
         className="w-48"
       />
       <h1 className="text-white">
-        Edit this page on{" "}
-        <InlineSnippet className="ml-2 bg-blue-900 text-blue-100">
-          app/home/page.tsx
-        </InlineSnippet>
+       Salient Labs
       </h1>
     </div>
   );
