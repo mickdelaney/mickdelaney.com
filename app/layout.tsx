@@ -6,15 +6,15 @@ import { Metadata } from "next";
 import { cn } from "@/lib/utils";
 
 const title =
-  "Platforms Starter Kit – The all-in-one starter kit for building multi-tenant applications.";
+  "mickdelaney.com";
 const description =
-  "The Platforms Starter Kit is a full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router, Vercel Postgres and the Vercel Domains API.";
+  "the personal website of mick delaney";
 const image = "https://vercel.pub/thumbnail.png";
 
 export const metadata: Metadata = {
   title,
   description,
-  icons: ["https://vercel.pub/favicon.ico"],
+  icons: ["https://mickdelaney.com/favicon.ico"],
   openGraph: {
     title,
     description,
